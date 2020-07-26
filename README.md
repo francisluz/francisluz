@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm software engineer....
+
+PS: This README is a working in progress...
+
 <!--
 **francisluz/francisluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
