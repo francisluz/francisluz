@@ -16,7 +16,7 @@
 
 I'm a Full-Stack software engineer who most of the time is developing backend stuff, using Python, NodeJs and some others, big fun of Javascript and its frameworks like React, Angular and friends. 
 
-☁️ Cloud computing is something that I am really into from Azure, Google Cloud, AWS to Heruko and Vercel.
+☁️ Cloud computing is something that I am really into from Azure, Google Cloud, AWS to Heroku and Vercel.
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisluz&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
