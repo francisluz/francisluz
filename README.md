@@ -1,12 +1,10 @@
 # Hi, I'm Francis Luz
 
-<!--
 <p align="center">
   <a href="#">
-    <img width="100" src="#" alt="logo" />
+    <img width="100" src="https://raw.githubusercontent.com/francisluz/francisluz.github.io/master/src/images/logo.svg" alt="logo" />
   </a>
 </p>
--->
 
 <p align="center" style="margin: -20px 0 30px">
   <a href="https://www.linkedin.com/in/francisluz/" target="_blank" style='margin-right:10px'>
