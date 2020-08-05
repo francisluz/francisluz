@@ -7,8 +7,14 @@
 </p>
 
 <p align="center" style="margin: -20px 0 30px">
-  <a href="https://www.linkedin.com/in/francisluz/" target="_blank" style='margin-right:10px'>
+  <a href="https://www.linkedin.com/in/francisluz/" target="_blank" style='margin-right:20px; text-decoration: none;'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
+  </a>
+  <a href="https://dev.to/francisluz" target="_blank" style='margin-right:20px; text-decoration: none;'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to" height="36px" width="36px" />
+  </a>
+  <a href="https://twitter.com/francisluz" target="_blank" style='margin-right:20px; text-decoration: none;'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
   </a>
 </p>
 
@@ -17,12 +23,15 @@ I'm a Full-Stack software engineer who most of the time is developing backend st
 ☁️ Cloud computing is something that I am really into from Azure, Google Cloud, AWS to Heroku and Vercel.
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisluz&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img src="https://github-readme-stats.vercel.app/api?username=francisluz&show_icons=true" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisluz&layout=compact&hide_title=1&card_width=445" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my public repos - Seems that there's a lot of python on it 😎</small>
   <br />
-  <br />
 </div>
+
+![Profile views](https://gpvc.arturio.dev/francisluz)  
 
 
 <!--
